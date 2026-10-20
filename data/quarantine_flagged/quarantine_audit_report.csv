@@ -1,0 +1,2 @@
+filename,vendor,invoice_id,date,tax_id,subtotal,tax,total_amount,violations
+invoice_test_1.pdf,Unknown Vendor,N/A,N/A,,0.0,0.0,0.0,Missing required Tax ID for compliance logging
