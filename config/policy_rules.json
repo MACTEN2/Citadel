@@ -1,0 +1,12 @@
+{
+  "max_auto_approve_amount": 2500.00,
+  "require_tax_id": true,
+  "allowed_currencies": ["USD", "EUR", "GBP"],
+  "flag_unapproved_vendors": false,
+  "approved_vendors": [
+    "Acme Corp",
+    "Global Logistics Inc",
+    "Nexus Cloud Services",
+    "Apex Tech Solutions"
+  ]
+}
